@@ -5,4 +5,11 @@
     <string name="btn_3">버튼3</string>
     <string name="btn_4">버튼4</string>
     <string name="btn_5">버튼5</string>
+    <string name="txt1">여긴 텍스트뷰입니다</string>
+    <string name="txt2">textSize속성</string>
+    <string name="txt3">textColor속성</string>
+    <string name="txt4">textStyle속성</string>
+    <string name="txt5">textface속성</string>
+    <string name="txt6">single속성 single속성 single속성 single속성 single속성</string>
+
 </resources>
